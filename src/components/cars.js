@@ -20,7 +20,7 @@ function CarB() {
 function CarC() {
   return (
     <div>
-      <h1> Car in Cars C</h1>
+      <h1> Car in Car D</h1>
       <Car> </Car>
     </div>
   );

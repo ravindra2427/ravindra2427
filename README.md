@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ravindra2427
+- 👋 Hi, I’m @ravindra
 - 👀 I’m interested in WEB DEVLOPEING
-- 🌱 I’m currently learning FULLSTACK JAVA
+- 🌱 I’m currently working as  FULLSTACK JAVA Devloper
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
